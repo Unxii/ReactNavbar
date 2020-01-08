@@ -7,8 +7,8 @@ export default function Navbar() {
         return (
             <Router>
                <nav>
-                <Link to="/">Home</Link> |
-                <Link to="/About">About Us</Link> |
+                <Link to="/">--HOME--</Link> |
+                <Link to="/About">--ABOUT US--</Link> |
                </nav>
 
                   <Switch>
